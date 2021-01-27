@@ -1,0 +1,27 @@
+{
+  "name": "sn-excel",
+  "version": "1.1.1",
+  "description": "export_json_to_excel 前端自定义表格宽度一键导出表格数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "sn",
+    "snine"
+  ],
+  "author": "Snine",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.2"
+  },
+  "devDependencies": {
+    "file-saver": "^2.0.2",
+    "script-loader": "^0.7.2",
+    "xlsx": "^0.16.8"
+  },
+  "__npminstall_done": "Mon Nov 16 2020 10:20:01 GMT+0800 (GMT+08:00)",
+  "_from": "sn-excel@1.0.2",
+  "_resolved": "https://registry.npm.taobao.org/sn-excel/download/sn-excel-1.0.2.tgz"
+}
